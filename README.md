@@ -7,6 +7,13 @@ Project with devward AB and KTH
 2. Derive the ITU Path Loss Model.(Done)
 
 ## What to do Nov 7 - Nov 13
-1. Understand the path loss model.
-2. Understand the meaning of each term in the equation.
-3. Try to assign the parameter for router in matlab.(Check matlab)
+1. Understand the path loss model. (Done)
+2. Understand the meaning of each term in the equation. (Done)
+3. Try to assign the parameter for router in matlab.(Check matlab) (Done)
+4. Write the SINR function. (Done)
+
+## To Do Nov 14 - Nov 20
+1. Reconstruct the building to make them more realistic.(Done)
+2. Re-write the PL, SNR and SINR function.
+3. Throughput Calculation and spectral efficiency.
+4. Mid-Term presentation.
