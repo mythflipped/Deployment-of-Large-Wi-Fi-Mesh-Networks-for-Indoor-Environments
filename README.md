@@ -19,6 +19,6 @@ Project with devward AB and KTH
 4. Mid-Term presentation.(Done)
 
 ## To Do Nov 21 - Nov 26
-1.Using comm Toolbox to simulate (AP+STA)
-2.Mesh Mode simulation
-3.Network KPIs evaluation (MAC states over Transmission, Throughput, PacketLoss, Average packet Latency)
+1. Using comm Toolbox to simulate (AP+STA)
+2. Mesh Mode simulation
+3. Network KPIs evaluation (MAC states over Transmission, Throughput, PacketLoss, Average packet Latency)
