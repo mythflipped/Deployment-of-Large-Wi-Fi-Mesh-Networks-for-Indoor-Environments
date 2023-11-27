@@ -14,6 +14,11 @@ Project with devward AB and KTH
 
 ## To Do Nov 14 - Nov 20
 1. Reconstruct the building to make them more realistic.(Done)
-2. Re-write the PL, SNR and SINR function.
-3. Throughput Calculation and spectral efficiency.
-4. Mid-Term presentation.
+2. Re-write the PL, SNR and SINR function.(Done)
+3. Throughput Calculation and spectral efficiency.(Done)
+4. Mid-Term presentation.(Done)
+
+## To Do Nov 21 - Nov 26
+1.Using comm Toolbox to simulate (AP+STA)
+2.Mesh Mode simulation
+3.Network KPIs evaluation (MAC states over Transmission, Throughput, PacketLoss, Average packet Latency)
